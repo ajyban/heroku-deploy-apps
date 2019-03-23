@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "bandla-apps",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "bandla apps portal",
   "scripts": {
     "start": "node index.js"
   },
